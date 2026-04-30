@@ -1,5 +1,5 @@
 fastapi
 numpy
 pydantic
-pyspark
+pyspark==3.3.1
 uvicorn
